@@ -4870,7 +4870,7 @@ ul {
 }
 
 .blog-one__single:hover .blog-one__content-box {
-  transform: translateY(0px);
+  /* transform: translateY(0px); */
 }
 
 .blog-one__single.active .blog-one__content-box {
