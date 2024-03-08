@@ -3873,11 +3873,11 @@ ul {
 }
 
 .why-choose-one__content .section-title__tagline {
-  color: #004AAD;
+  color: #00a7eb;
 }
 
 .why-choose-one__content .section-title__tagline:before {
-  background-color: #004AAD;
+  background-color: #00a7eb;
 }
 
 .why-choose-one__content .section-title__title {
@@ -4413,12 +4413,12 @@ ul {
   left: -33px;
   width: 20px;
   height: 2px;
-  background-color: #2b1f48;
+  background-color:  #00a7eb;
 }
 
 .testimonial-one__title-box h5 {
   font-size: 14px;
-  color: #2b1f48;
+  color:  #00a7eb;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-weight: 700;
