@@ -39,24 +39,6 @@
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-
-.whatsapp_float2 {
-  position: fixed;
-  bottom: 20px;
-  left: 20px;
-  z-index: 999;
-  cursor: pointer;
-}
-
-
-.whatsapp_float2 img {
-  height: 80px;
-  width: 80px;
-  background-color: transparent;
-  /* z-index: 999; */
-  border-radius: 50%;
-}
-
 .row {
   --bs-gutter-x: 30px;
 }

@@ -1,0 +1,15 @@
+.whatsapp_float2 {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 999;
+    cursor: pointer;
+  }
+  
+  
+  .whatsapp_float2 img {
+    height: 80px;
+    width: 80px;
+    background-color: transparent;
+    border-radius: 50%;
+  }
